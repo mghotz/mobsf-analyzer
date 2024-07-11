@@ -1,0 +1,5 @@
+redis
+requests
+requests_toolbelt
+pytest
+pytest-mock
